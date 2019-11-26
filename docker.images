@@ -1,0 +1,4 @@
+REPOSITORY              TAG                 IMAGE ID            CREATED             SIZE
+doretamaliqi/node-app   latest              aa8385fa6eb8        12 minutes ago      907MB
+node                    10                  d5680e53a228        2 days ago          903MB
+hello-world             latest              fce289e99eb9        10 months ago       1.84kB
